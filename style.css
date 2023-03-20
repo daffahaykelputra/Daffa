@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+}
+body{
+    background: white;
+    min-height: 200px;
+    
+}
+img {
+    width: 200px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 500px;
+    
+}
+.logo{
+    width: 200px;
+    height: 200px;
+}
+.identitas{
+    text-align: center;
+    font-family: Autobus Bold;
+    display: table;
+    background-color: gainsboro;
+    padding: 30px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+h1{
+    text-align: center;
+    font-family : BRAVE Eightyone;
+}
+h2{
+    text-align: center;
+    font-family: Future Techno Italic;
+}
+.medsos{
+    text-align: center;
+}
+.deskripsi{
+    display: table;
+    font-family: Autobus Bold;
+    text-align: center;
+    background-color: gainsboro;
+    padding: 30px;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+.footer{
+    font-family: Autobus Bold;
+    background-color: gray;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.judul{
+    text-decoration: underline;
+}
+.header{
+    background-color: gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: cover;
+}
